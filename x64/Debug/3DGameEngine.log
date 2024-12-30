@@ -1,0 +1,17 @@
+﻿  3DGameEngine.cpp
+D:\3DGameEngine\3DGameEngine\3DGameEngine\olcConsoleGameEngine.h(767,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3DGameEngine.cpp')
+  
+D:\3DGameEngine\3DGameEngine\3DGameEngine\olcConsoleGameEngine.h(1107,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file '3DGameEngine.cpp')
+  
+D:\3DGameEngine\3DGameEngine\3DGameEngine\olcConsoleGameEngine.h(1204,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+  (compiling source file '3DGameEngine.cpp')
+  
+D:\3DGameEngine\3DGameEngine\3DGameEngine\3DGameEngine.cpp(166,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\3DGameEngine\3DGameEngine\3DGameEngine\3DGameEngine.cpp(166,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\3DGameEngine\3DGameEngine\3DGameEngine\3DGameEngine.cpp(165,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\3DGameEngine\3DGameEngine\3DGameEngine\3DGameEngine.cpp(165,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\3DGameEngine\3DGameEngine\3DGameEngine\3DGameEngine.cpp(164,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\3DGameEngine\3DGameEngine\3DGameEngine\3DGameEngine.cpp(164,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3DGameEngine.vcxproj -> D:\3DGameEngine\3DGameEngine\x64\Debug\3DGameEngine.exe
