@@ -1,1 +1,1 @@
-# 3DGameEngine, Recreated a 3D Console Game Engine from sratch using youtube tutorial. Can display a 3D cube using linear algebra and matrix multiplicaiton.   
+# 3DGameEngine, Recreated a 3D Console Game Engine from sratch using youtube tutorial. Can display a 3D cube using linear algebra and matrix multiplicaiton. Plan to create another game engine using my own .dll files for the base rather than importing .h files.   
